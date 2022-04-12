@@ -1,0 +1,1 @@
+Este proyecto es para enviar una correo desde una script python
