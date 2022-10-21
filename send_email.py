@@ -114,7 +114,7 @@ files = [filename_cons,filename_det]
 def create_file(filename,sql,p_header):
     p_server = '10.20.11.101'
     p_user = 'TokEnergyQuery'
-    p_pass = 'C0m3rc14l'
+    p_pass = 'Cm8rc1564l'
     p_db = 'TokEnergyAire'
 
     # crea la cadena de conexion
@@ -128,7 +128,7 @@ def create_file(filename,sql,p_header):
 def create_file_excel(filename,sql,p_header):
     p_server = '10.20.11.101'
     p_user = 'TokEnergyQuery'
-    p_pass = 'C0m3rc14l'
+    p_pass = 'Cm8rc1564l'
     p_db = 'TokEnergyAire'
 
     # crea la cadena de conexion
@@ -142,7 +142,7 @@ def create_file_excel(filename,sql,p_header):
 
 def send_email(p_sender,p_to,p_cc,p_subject,p_body,files):
     # parameters smtp
-    server = '10.251.139.236'
+    server = '10.251.139.2'
     port = 25
 
     # parameters who to send email
